@@ -1,0 +1,21 @@
+StudName,StudNumber,Study_hours,Degree,Field,GPA,GPA_From,Success_Rate_From,Success_Rate_To
+Ahmad Almalki,1,4,Master,CS,3.14,4,9,10
+Fahad Salim,2,2,Bachelor,Engineering,2.67,5,6,10
+Sarah Ahmad,3,4,Bachelor,Physics,3.62,5,9.5,10
+Yusuf Alotaibi,4,1.5,Master,Physics,1.7,5,2.5,10
+Nasser Alnasser,5,5,Bachelor,CS,3.22,4,8.5,10
+Hamad Ayoub,6,8,Bachelor,CS,2.6,4,5.5,10
+Abdulaziz Alshammari,7,10,Philosophy,Engineering,2.99,5,6.5,10
+Yasser Younis,8,4.5,Bachelor,Medical Studies,3.4,5,8,10
+Ahmad Mohammad,9,3,Bachelor,Art,3.04,5,7.5,10
+Saad Falah,10,2.8,Master,English Culture,3.75,5,8,10
+Raeed Othman,11,1,Bachelor,CS,1.95,4,1.5,10
+Fatima AlEnezi,12,2.3,Bachelor,Art,2.85,5,4.5,10
+Waleed Younis,13,3,Bachelor,Engineering,3.72,5,9.5,10
+Reema Abdullah,14,4.4,Master,CS,3.23,4,9,10
+Abbas Khalid,15,11.5,Philosophy,CS,3.55,4,8,10
+Mohammad Alzahrani,16,0.4,Bachelor,Business Administration,1.8,5,1,10
+Sarah Khalid,17,1.7,Bachelor,Engineering,2.1,5,2.5,10
+Joury Ahmad,18,3.9,Master,Business Administration,3.34,5,8,10
+Abdualrahman Alghamdi,19,3.8,Bachelor,Business Administration,3.35,5,8,10
+Saleh AlAhmad,20,3.3,Bachelor,CS,3.3,4,9,10

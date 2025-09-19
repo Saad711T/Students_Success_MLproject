@@ -11,7 +11,7 @@ Run this command on your terminal : `git clone https://github.com/Saad711T/Stude
 
 | Sklearn | Pandas | Matplotlib |
 |-----|-----|------|
-| ![1]([https://placekitten.com/150/150](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)) | ![2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png) | ![3]([https://placehold.co/150x150](https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png)) |
+| ![1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png/300x300) | ![2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png) | ![3]([https://placehold.co/150x150](https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png) |
 
 
 #### Notice

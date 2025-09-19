@@ -9,10 +9,6 @@ Run this command on your terminal : `git clone https://github.com/Saad711T/Stude
 - **Pandas** : Python library using in Data manipulation.
 - **Matplotlib** : Famous data visualization library.
 
-| Sklearn | Pandas | Matplotlib |
-|-----|-----|------|
-| ![1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png/300x300) | ![2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png) | ![3]([https://placehold.co/150x150](https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png) |
-
 
 #### Notice
 Dataset is with dummy data **Not real** and i write this data in 5 minutes...
